@@ -94,9 +94,3 @@ This will process validation and test sequences, run evaluations, and generate s
 - Results and evaluation depend on proper dataset structure and ground truth availability.
 
 ---
-
-## Contact
-
-For questions or collaboration, please contact Hossam Nasr.
-
----
