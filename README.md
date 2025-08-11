@@ -72,9 +72,9 @@ This will process validation and test sequences, run evaluations, and generate s
 
 ### GIF Previews
 
-![Tracking 30 FPS](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NhMTYxZjJhYmJkM2Q4NzQ0NDI1MzU0YmY3M2YzYmEyNmRkZjM3OSZlcD12MV9naWZfYnlfaWQmY3Q9Zw/30fps_example.gif)
+![Tracking 30 FPS](https://drive.google.com/file/d/1BllQ_yIIwiZj-Q_KcHxqwSWnns4Cf-iy/view?usp=drive_link)
 
-![Tracking 60 FPS](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcwZDQ4YmIxMGI4NzYyNjBjYzMxZjNjNzYxZWM1NjA5MjA5YjZhMiZlcD12MV9naWZfYnlfaWQmY3Q9Zw/60fps_example.gif)
+![Tracking 60 FPS](https://drive.google.com/file/d/1ZOm_YpH8c3I7678kQshkO90SlgqNhPBl/view?usp=drive_link)
 
 ---
 
