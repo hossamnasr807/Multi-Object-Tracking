@@ -72,9 +72,9 @@ This will process validation and test sequences, run evaluations, and generate s
 
 ### GIF Previews
 
-![Tracking 30 FPS](https://drive.google.com/uc?export=view&id=1BllQ_yIIwiZj-Q_KcHxqwSWnns4Cf-iy)
+![Tracking 30 FPS](./results/output_video.mp4.gif)
 
-![Tracking 60 FPS](https://drive.google.com/uc?export=view&id=1ZOm_YpH8c3I7678kQshkO90SlgqNhPBl)
+![Tracking 60 FPS](./results/output_video(1).mp4.gif)
 
 ---
 
