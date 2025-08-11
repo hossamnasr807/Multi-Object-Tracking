@@ -63,7 +63,7 @@ This will process validation and test sequences, run evaluations, and generate s
 
 | Sequence 1 Example | Sequence 2 Example | Test Prediction Example |
 |:------------------:|:------------------:|:----------------------:|
-| ![seq1](./frame_000013_seq1.jpg) | ![seq2](./frame_002239_seq2.jpg) | ![test_pred](./000010_test_predict.jpg) |
+| ![seq1](./results/frame_000013_seq1.jpg) | ![seq2](./results/frame_002239_seq2.jpg) | ![test_pred](./results/000010_test_predict.jpg) |
 
 ### Tracking Videos
 
